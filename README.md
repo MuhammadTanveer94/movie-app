@@ -40,7 +40,7 @@ A React Native mobile application built with Expo for discovering and exploring 
     ```bash
     npm run ios
     ```
-    This will start the Metro bundler and launch the app in your Android emulator or connected device.
+    This will start the Metro bundler and launch the app in your IOS simulator or connected device.
 
 4. Run on Android
     ```bash
