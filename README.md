@@ -36,11 +36,18 @@ A React Native mobile application built with Expo for discovering and exploring 
     npx expo prebuild
     ```
 
+4. Run on IOS
+    ```bash
+    npm run ios
+    ```
+    This will start the Metro bundler and launch the app in your Android emulator or connected device.
+
 4. Run on Android
     ```bash
     npm run android
     ```
     This will start the Metro bundler and launch the app in your Android emulator or connected device.
+
 
 ⚙️ Development Requirements
 
